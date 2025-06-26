@@ -8,7 +8,7 @@ import os
 import threading
 from escpos import *
 
-# === GPIO Setup ===
+# === GPIO Setup  ===
 person_buttons = {
     'A': Button(5, pull_up=True, bounce_time=0.1),
     'B': Button(11, pull_up=True, bounce_time=0.1),
@@ -73,7 +73,7 @@ def reset_all():
         led.off()
     attract_loop()
 
-# === Drucksimulation ===
+# === Druckfunktion ===
 def simulate_print():
     global selected_person, selected_mood, printing, attracting, p
     printing = True
@@ -121,5 +121,5 @@ for k in mood_buttons:
 
 # === Start ===
 reset_all()
-print("Testmodus ohne Druck aktiv - Leuchten und Taster werden getestet.")
+print("Automat ist jetzt aktiv")
 pause()
