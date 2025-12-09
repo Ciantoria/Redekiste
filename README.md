@@ -250,5 +250,5 @@ Fühle dich frei, Issues zu öffnen oder Pull Requests einzureichen.
 *Entwickelt als Teil des Projekts "Kooperative Upgrades städtischer Elemente"*
 *Eine friedliche Intervention in der Stadt* 🎭
 
-*Hochschule für Technik und Wirtschaft Dresden;*
+*Hochschule für Technik und Wirtschaft Dresden; Fakultät Design;*
 *Studentin Caroline Kortrijk*
