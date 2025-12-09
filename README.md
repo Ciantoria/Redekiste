@@ -249,3 +249,5 @@ Fühle dich frei, Issues zu öffnen oder Pull Requests einzureichen.
 
 *Entwickelt als Teil des Projekts "Kooperative Upgrades städtischer Elemente"*
 *Ein stiller, charmanter Störer im Stadtbild* 🎭
+Hochschule für Technik und Wirtschaft Dresden
+Studentin Caroline Kortrijk
